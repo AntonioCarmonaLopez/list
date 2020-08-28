@@ -1,2 +1,1 @@
-# list
-lista doblemente enlazada
+Double joined list in java
